@@ -71,6 +71,7 @@ require "logic.php";
 					<img class='comic' src='http://imgs.xkcd.com/comics/password_strength.png' alt='xkcd style passwords'>
 				</a>
 			</p>
+			 
 
 			<p class="description">
 				Author: Jean Yu Chun Su | Course: CSCI E-15 | Copyright©2015

@@ -1,6 +1,4 @@
 <?php
-
-
 	//Retrieve word number option selected. if not selected, default to 5
 	$wordnumber = (empty($_POST["word_number"]) ? 5 : $_POST["word_number"]);
 
@@ -55,6 +53,5 @@
 				//sustain the checkbox value to display on the page
 				$addsymbol = "checked";
 		}
-
 	}
 ?>
