@@ -26,7 +26,7 @@
 	if($wordsource = file("wordsource.txt", FILE_IGNORE_NEW_LINES)) {
 		//construct result string based on word number option selection
 		for ($i = 0; $i < $wordnumber; $i++) {
-			$word = $wordsource[rand(0, 4999)];
+			$word = $wordsource[rand(0, 58000)];
 			//make all cases lower if the checkbox option is selected
 			if (isset($_POST["change_uppercase"])) {
 				$word = strtoupper($word);
