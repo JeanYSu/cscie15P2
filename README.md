@@ -12,7 +12,7 @@ Git, Github and Digital Ocean server were applied in the project.
 PHP, HTML and CSS skills were used with Bootstrap front-end framework technology.
 
 ## Demo
-[http://...](YouTube)
+[https://youtu.be/hYT6I4txkbs](Project 2 Demo)
 
 ## Details for teaching team
 The file `index.php` is the landing page wit simple description of xkcd password, reference to xkcd password strength and a xkcd password generator with logic written by PHP code.
