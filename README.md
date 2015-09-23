@@ -15,11 +15,13 @@ PHP, HTML and CSS skills were used with Bootstrap front-end framework technology
 [http://...](YouTube)
 
 ## Details for teaching team
-The file `index.php` is the landing page wit simple description of xkcd password and reference to xkcd password strength.
+The file `index.php` is the landing page wit simple description of xkcd password, reference to xkcd password strength and a xkcd password generator with logic written by PHP code.
 
 No login required.
 
 The logic of generating a xkcd style password is at 'logic.php' page.
+
+A drop down list is used for number of words selection to eliminate user input error.
 
 The source code of the project can be found at my github repository: <https://github.com/JeanYSu/cscie15P2>
 
